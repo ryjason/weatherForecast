@@ -1,0 +1,15 @@
+city:shanghai
+Current Temperature:3.73
+Current Humidity:81.0
+Wind Speeds:3.0
+Wind Angle:10.0
+city:nanjing
+Current Temperature:0.95
+Current Humidity:78.0
+Wind Speeds:2.24
+Wind Angle:15.0
+City: beijing
+Current Temperature: 3.94
+Current Humidity: 27.0
+Wind Speeds: 4.56
+Wind Angle: 334.0
