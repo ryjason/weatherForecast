@@ -27,6 +27,7 @@ public class Main {
             System.out.println("Enter a city name,");
             System.out.println("Or to quit, enter 'exit':");
             String Location = myObj.nextLine();
+            
 
             // Check if the user wants to exit the program
             if (Objects.equals(Location, "exit")) {
