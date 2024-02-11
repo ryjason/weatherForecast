@@ -13,3 +13,18 @@ Current Temperature: 3.94
 Current Humidity: 27.0
 Wind Speeds: 4.56
 Wind Angle: 334.0
+City: rexburg
+Current Temperature: -1.99
+Current Humidity: 59.0
+Wind Speeds: 1.54
+Wind Angle: 210.0
+City: rexburg
+Current Temperature: -1.99
+Current Humidity: 59.0
+Wind Speeds: 1.54
+Wind Angle: 210.0
+City: shanghai
+Current Temperature: 42.8
+Current Humidity: 86.0
+Wind Speeds: 4.47
+Wind Angle: 250.0
